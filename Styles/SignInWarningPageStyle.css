@@ -1,0 +1,18 @@
+﻿body, html {
+    background-image: url('../Pictures/darth_vader_ipod_ad_by_hitokirivader.jpg');
+    height: 100%;
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.warning {    
+    margin-left: 150px;
+    padding-top: 200px;
+}
+
+.header {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 40px;
+}
